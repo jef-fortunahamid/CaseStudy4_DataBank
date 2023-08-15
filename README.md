@@ -1,6 +1,6 @@
 # Case Study #4 Data Bank
 
-Note: All information and data related to the case study were obtained from [here](https://8weeksqlchallenge.com/case-study-4/).
+*Note: All information and data related to the case study were obtained from [here](https://8weeksqlchallenge.com/case-study-4/).*
 ![Screenshot 2023-08-13 at 8 38 04 pm](https://github.com/jef-fortunahamid/CaseStudy4_DataBank/assets/125134025/b4000e01-a425-47e3-9cbe-010b3ad6ee3f)
 
 ## Business Task
@@ -307,7 +307,7 @@ WHERE gm.customer_id BETWEEN 1 AND 3;
 ```
 ![image](https://github.com/jef-fortunahamid/CaseStudy4_DataBank/assets/125134025/bec4ad79-8707-4933-bd21-b3a5c8e6ac32)
 
-> 5. > Comparing the closing balance of a customer’s first month and the closing balance from their second month, what percentage of customers:
+> 5. Comparing the closing balance of a customer’s first month and the closing balance from their second month, what percentage of customers:
 > - Have a negative first month balance?
 > - Have a positive first month balance?
 > - Increase their opening month’s positive closing balance by more than 5% in the following month?
